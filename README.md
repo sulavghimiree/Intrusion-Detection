@@ -10,7 +10,7 @@ This project is a Machine Learning-based **Intrusion Detection System (IDS)** th
 
 - **Objective:** Detect unauthorized or malicious activity in a network using ML algorithms.
 - **Approach:** Data preprocessing → Feature Engineering → Model Training → Evaluation → Deployment-ready model.
-- **Status:** ✅ Completed (Model Trained and Saved)
+- **Status:** ✅ Completed (Model Trained) and you can save it just running the code
 
 ---
 
@@ -18,6 +18,6 @@ This project is a Machine Learning-based **Intrusion Detection System (IDS)** th
 
 The model was trained on a publicly available intrusion detection dataset:
 
-- **Dataset Used:** [Mention dataset name here, e.g., NSL-KDD / CIC-IDS2017]
+- **Dataset Used:** NSL-KDD
 - **Features:** Includes protocol type, service, flag, source bytes, destination bytes, and various traffic-related statistics.
 - **Target:** Binary or Multi-class classification for different types of network attacks.
